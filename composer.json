@@ -1,0 +1,33 @@
+{
+  "name": "kamran/modern-auth-portal",
+  "description": "A professional WordPress authentication system with login, registration, 2FA, and login history tracking",
+  "type": "wordpress-plugin",
+  "version": "4.0.0",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Kamran Rasool",
+      "url": "https://yourwebsite.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "authentication",
+    "login",
+    "registration",
+    "two-factor-authentication",
+    "2fa",
+    "security"
+  ],
+  "homepage": "https://yourwebsite.com",
+  "support": {
+    "email": "support@yourwebsite.com"
+  }
+}
