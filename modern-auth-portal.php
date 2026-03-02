@@ -4,7 +4,7 @@
  * Plugin URI: https://solvetrics.com/
  * Description: Complete authentication system with Login, Register, Edit Profile, Reset Password, Change Password, Email 2FA, Session Timeout, Login History & Professional Dashboard
  * Version: 4.0.0
- * Author: M Azhar Developer
+ * Author: Kamran Rasool Developer
  * Author URI: https://solvetrics.com/
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
