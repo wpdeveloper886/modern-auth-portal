@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Modern Auth Portal - Complete Edition v4.0
- * Plugin URI: https://solvetrics.com/
+ * Plugin URI: https://codebykami.github.io/portfolio/
  * Description: Complete authentication system with Login, Register, Edit Profile, Reset Password, Change Password, Email 2FA, Session Timeout, Login History & Professional Dashboard
  * Version: 4.0.0
  * Author: Kamran Rasool Developer
- * Author URI: https://solvetrics.com/
+ * Author URI: https://codebykami.github.io/portfolio/
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: modern-auth-portal
