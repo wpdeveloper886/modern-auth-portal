@@ -150,3 +150,4 @@ For issues or feature requests, please contact the author.
 ## Credits
 
 Built with WordPress best practices and security standards in mind.
+"# modern-login-plugin" 
